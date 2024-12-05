@@ -29,3 +29,11 @@ path = "src/bin/2024/day03/part1.rs"
 [[bin]]
 name = "2024-day03-part2"
 path = "src/bin/2024/day03/part2.rs"
+
+[[bin]]
+name = "2024-day04-part1"
+path = "src/bin/2024/day04/part1.rs"
+
+[[bin]]
+name = "2024-day04-part2"
+path = "src/bin/2024/day04/part2.rs"

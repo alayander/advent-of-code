@@ -5,6 +5,7 @@ edition = "2021"
 
 [dependencies]
 regex = "1"
+itertools = "0.11"
 
 [[bin]]
 name = "2024-day01-part1"
@@ -53,3 +54,11 @@ path = "src/bin/2024/day06/part1.rs"
 [[bin]]
 name = "2024-day06-part2"
 path = "src/bin/2024/day06/part2.rs"
+
+[[bin]]
+name = "2024-day07-part1"
+path = "src/bin/2024/day07/part1.rs"
+
+[[bin]]
+name = "2024-day07-part2"
+path = "src/bin/2024/day07/part2.rs"
